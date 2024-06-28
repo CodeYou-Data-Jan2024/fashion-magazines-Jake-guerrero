@@ -1,5 +1,5 @@
 order_id,customer_id,subscription_id,purchase_date,order_status,customer_id,customer_name,address,subscription_id,description,price_per_month,subscription_length,Amount Due
-14,6,5,2017-01-22 00:00:00,unpaid,6,Bethann Schraub,29 Monticello,5,Fashion Magazine,17,6,102
-8,9,5,2017-01-26 00:00:00,unpaid,9,Eryn Vilar,56 Morton St.,5,Fashion Magazine,17,6,102
-5,7,6,2017-01-25 00:00:00,unpaid,7,Janay Priolo,81 Harrisburg,6,Fashion Magazine,19,3,57
-3,3,4,2017-01-26 00:00:00,unpaid,3,Lizabeth Letsche,789 Main St.,4,Fashion Magazine,15,12,237
+14,6,5,2017-01-22 00:00:00,unpaid,6,Bethann Schraub,29 Monticello,5,Fashion Magazine,17,6,$
+8,9,5,2017-01-26 00:00:00,unpaid,9,Eryn Vilar,56 Morton St.,5,Fashion Magazine,17,6,$
+5,7,6,2017-01-25 00:00:00,unpaid,7,Janay Priolo,81 Harrisburg,6,Fashion Magazine,19,3,$
+3,3,4,2017-01-26 00:00:00,unpaid,3,Lizabeth Letsche,789 Main St.,4,Fashion Magazine,15,12,$
