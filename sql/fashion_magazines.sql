@@ -1,4 +1,4 @@
-SELECT *, PRINTF(SUM(subscriptions.subscription_length * subscriptions.price_per_month)) AS "Amount Due"
+SELECT *, PRINTF('$%.2!', SUM(subscriptions.subscription_length * subscriptions.price_per_month)) AS "Amount Due"
 FROM orders
 JOIN customers
 ON orders.customer_id = customers.customer_id
